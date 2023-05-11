@@ -1,0 +1,4 @@
+Sitemap: https://pvbdoes.github.io/sitemap.xml
+User-Agent: *
+Allow: /
+Host: https://pvbdoes.github.io

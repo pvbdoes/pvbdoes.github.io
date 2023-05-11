@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
+    <title>PVBdoes!</title>
+    <subtitle>Personal blog about my life, thought and lifehacks</subtitle>
+    <link href="https://pvbdoes.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://pvbdoes.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-05-11T23:00:00+00:00</updated>
+    <id>https://pvbdoes.github.io/atom.xml</id>
+    <entry xml:lang="ru">
+        <title>Ещё один старт</title>
+        <published>2023-05-11T23:00:00+00:00</published>
+        <updated>2023-05-11T23:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://pvbdoes.github.io/ys9cuzb25ns/" type="text/html"/>
+        <id>https://pvbdoes.github.io/ys9cuzb25ns/</id>
+        
+        <content type="html">&lt;p&gt;Третий оказался не последним ввиду возникновения проблемы. Пришлось начать с чистого листа. Надеюсь не придется писать подобный пост ещё раз. Уже надоело и стыдно чуток, хотя &amp;quot;Бесконечный черновик&amp;quot; говорит не обращать на это внимание и делать дальше задуманное повторяя хоть миллионы раз, но обязательно на более высоком уровне. В этот раз с сайтом.&lt;&#x2F;p&gt;
+ 
+&lt;img src=&quot;https:&#x2F;&#x2F;pvbdoes.github.io&#x2F;twelve.png&quot; alt=&quot;The nature and my start&quot; width=&quot;600&quot; height=&quot;400&quot; &#x2F;&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ru">
+        <title>Вольный блог</title>
+        <published>2023-05-11T00:00:00+00:00</published>
+        <updated>2023-05-11T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://pvbdoes.github.io/vpoap6fkyvy/" type="text/html"/>
+        <id>https://pvbdoes.github.io/vpoap6fkyvy/</id>
+        
+        <content type="html">&lt;p&gt;Соцсети дают аудиторию, которая важна в подавляющем большинстве случаев, если только он не для себя, то есть не является персональным дневником.&lt;&#x2F;p&gt;
+&lt;p&gt;Однако накладываемые социальными сетями ограничения не позволяют:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;полноценно оформлять посты -- акценты, усиления, спойлеры и прочее&lt;&#x2F;li&gt;
+&lt;li&gt;неограниченно редактировать в течении всего жизненного цикла&lt;&#x2F;li&gt;
+&lt;li&gt;упорядочивать с помощью множества таксономий&lt;&#x2F;li&gt;
+&lt;li&gt;отображать обратные ссылки для постов&lt;&#x2F;li&gt;
+&lt;li&gt;всячески смешивать различный контент -- текст, аудио, видео, картинки&lt;&#x2F;li&gt;
+&lt;li&gt;просмотреть всю историю правок (вики)
+Вывод: управление данными крайне ограничено.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Имея опыт взаимодействия c системами контроля версий и статическими генераторами сайтов завел параллельно сайт-блог, который и будет основной площадкой -- pvbdoes.github.io , а в ВК будет дублироваться.&lt;&#x2F;p&gt;
+ 
+&lt;img src=&quot;https:&#x2F;&#x2F;pvbdoes.github.io&#x2F;nowebsite.jpg&quot; alt=&quot;Me and people without any personal website&quot; width=&quot;600&quot; height=&quot;400&quot; &#x2F;&gt;
+</content>
+        
+    </entry>
+</feed>
